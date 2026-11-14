@@ -84,7 +84,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.onrender.com/graph?username=Jesxs-Sky&bg_color=1a1b27&color=38bdf8&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" />
+  <img height="180em" src="https://raw.githubusercontent.com/Jesxs-Sky/Jesxs-Sky/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/Jesxs-Sky/Jesxs-Sky/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://raw.githubusercontent.com/Jesxs-Sky/Jesxs-Sky/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  <img height="180em" src="https://raw.githubusercontent.com/Jesxs-Sky/Jesxs-Sky/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </div>
 
 <!-- Footer con ondas -->
