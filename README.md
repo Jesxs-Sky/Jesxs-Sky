@@ -10,7 +10,7 @@
   <a href="https://www.tiktok.com/@jesxs.py" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-@jesxs.py-000000?style=flat-square&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://jesxs-sky.github.io" target="_blank">
+  <a href="https://portfoliojess.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-38BDF8?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
