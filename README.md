@@ -78,13 +78,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.onrender.com/graph?username=Jesxs-Sky&bg_color=1a1b27&color=38bdf8&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesxs-Sky&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesxs-Sky&bg_color=1a1b27&color=38bdf8&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.onrender.com/graph?username=Jesxs-Sky&bg_color=1a1b27&color=38bdf8&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" />
 </div>
 
 <!-- Footer con ondas -->
