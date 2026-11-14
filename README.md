@@ -1,6 +1,6 @@
-<!-- Banner superior con ondas -->
+<!-- Banner superior con ondas (URL corregida) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Jes%C3%BAs%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Dev%20%7C%20Digital%20Marketing%20%7C%20SysAdmin&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Jes%C3%BAs%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%2B%20Mobile%20Dev%20%7C%20Digital%20Marketing%20%7C%20SysAdmin&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <!-- Badges de contacto y vistas -->
@@ -77,8 +77,8 @@
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jesxs-Sky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesxs-Sky&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Jesxs-Sky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jesxs-Sky&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
@@ -87,8 +87,9 @@
 
 <br/>
 
+<!-- Gráfica de actividad continua -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jesxs-Sky&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesxs-Sky&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </div>
 
 <!-- Footer con ondas -->
