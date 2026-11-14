@@ -1,10 +1,9 @@
-<!-- Banner animado con efecto Typing -->
+<!-- Banner superior con ondas -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Jes%C3%BAs+Mart%C3%ADnez+%F0%9F%91%8B;Web+%26+Mobile+Developer+%7C+Digital+Marketing;Team+Leader+%26+SysAdmin+Student+(MX+%F0%9F%87%B2%F0%9F%87%BD+%2F+FR+%F0%9F%87%AB%F0%9F%87%B7)" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Jes%C3%BAs%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20Dev%20%7C%20Digital%20Marketing%20%7C%20SysAdmin&descAlignY=58&descSize=16" width="100%" />
 </div>
 
+<!-- Badges de contacto y vistas -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jesxs-Sky&label=Vistas%20al%20perfil&color=0e75b6&style=flat-square" alt="Jesxs-Sky" />
   <a href="https://www.tiktok.com/@jesxs.py" target="_blank">
@@ -24,6 +23,15 @@
 - 🚀 Actualmente liderando y sacando adelante **2 proyectos personales** de software.
 - 🎓 **TSU en Entornos Virtuales y Negocios Digitales**, cursando la Ingeniería en **Tecnologías de la Información e Innovación Digital**.
 - 🌍 Realizando una **doble titulación internacional** en el **IUT de Bayonne (Francia)** en *Administración de Redes y Sistemas*.
+
+---
+
+### 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **📱 HoloWear** | Plataforma móvil y web para simulación textil y gestión inteligente. | `Flutter` `Node.js` `MongoDB` |
+| **🎨 Draw My Way** | Herramienta multiplataforma para gestión y referencia de proyectos creativos. | `React` `JavaScript` `Firebase` |
 
 ---
 
@@ -60,7 +68,13 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🐍 Actividad & Estadísticas
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jesxs-Sky/Jesxs-Sky/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jesxs-Sky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -70,3 +84,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesxs-Sky&theme=tokyonight&hide_border=true" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jesxs-Sky&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</div>
+
+<!-- Footer con ondas -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0f172a&height=100&section=footer" width="100%" />
