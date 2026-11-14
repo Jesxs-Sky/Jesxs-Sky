@@ -1,4 +1,4 @@
-<!-- Banner superior con ondas (URL corregida) -->
+<!-- Banner superior con ondas -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=180&section=header&text=Jes%C3%BAs%20Mart%C3%ADnez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%2B%20Mobile%20Dev%20%7C%20Digital%20Marketing%20%7C%20SysAdmin&descAlignY=58&descSize=16" width="100%" />
 </div>
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/TikTok-@jesxs.py-000000?style=flat-square&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://portfoliojess.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Web-38BDF8?style=flat-square&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-portfoliojess.netlify.app-38BDF8?style=flat-square&logo=netlify&logoColor=white" />
   </a>
 </p>
 
@@ -23,6 +23,7 @@
 - 🚀 Actualmente liderando y sacando adelante **2 proyectos personales** de software.
 - 🎓 **TSU en Entornos Virtuales y Negocios Digitales**, cursando la Ingeniería en **Tecnologías de la Información e Innovación Digital**.
 - 🌍 Realizando una **doble titulación internacional** en el **IUT de Bayonne (Francia)** en *Administración de Redes y Sistemas*.
+- 🌐 Mira mis trabajos y proyectos en mi portafolio: **[portfoliojess.netlify.app](https://portfoliojess.netlify.app)**
 
 ---
 
@@ -77,19 +78,13 @@
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Jesxs-Sky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jesxs-Sky&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesxs-Sky&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- Gráfica de actividad continua -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesxs-Sky&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jesxs-Sky&bg_color=1a1b27&color=38bdf8&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" />
 </div>
 
 <!-- Footer con ondas -->
